@@ -1,7 +1,9 @@
 **Hangman Game in Python 🎮**
 
 
-Welcome to the classic Hangman game built with Python! 🖥️ This project lets you play the timeless word guessing game in the comfort of your terminal. It's a fun way to test your vocabulary and memory while enjoying some old-school gaming fun!
+Welcome to the classic Hangman game built with Python! 
+🖥️ This project lets you play the timeless word guessing game in the comfort of your terminal. 
+It's a fun way to test your vocabulary and memory while enjoying some old-school gaming fun!
 
 🎲 How to Play
 The game will pick a random word from a list.
@@ -16,6 +18,7 @@ Visual display of the word you're guessing with underscores showing unguessed le
 Guess tracking: Keeps track of guessed letters and displays them.
 Limited attempts: You have only 6 wrong guesses before you lose!
 User input validation: Ensures you enter a single letter and no repeats.
+
 🚀 Getting Started
 Prerequisites
 To play, you only need Python installed on your computer.
@@ -37,8 +40,8 @@ python hangman.py
 The game will start in your terminal! 🎉
 
 🤖 Example Game Play
-text
 Copy code
+```
 Welcome to Hangman!
 The word to guess has 7 letters.
 
@@ -51,6 +54,8 @@ Good guess! The letter 'p' is in the word.
 Current word: p _ _ _ _ _ _
 Guessed letters: p
 You have 6 attempts left.
+```
+
 📚 Contributing
 Feel free to fork this repository, make improvements, or add new features like:
 
