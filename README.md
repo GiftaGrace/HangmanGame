@@ -27,7 +27,7 @@ Clone the Repository
 
 Copy code
 ```
-git clone https://github.com/GiftaGrace/hangman-python.git
+git clone https://github.com/GiftaGrace/HangmanGame.git
 cd hangman-python
 ```
 Running the Game
